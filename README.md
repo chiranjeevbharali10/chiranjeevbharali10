@@ -19,46 +19,6 @@
 
 I build serious software. With a deep focus on distributed systems, AI inference platforms, and robust cloud infrastructure, I engineer solutions designed for scale and performance. Currently based in Bengaluru, India, I spend my time exploring the depths of Kubernetes, tuning backend architectures, and pushing the boundaries of what local LLMs can do.
 
-## ✦ Current Focus
-
-- [x] Architecting high-performance backend systems
-- [x] Deep diving into Kubernetes & Cloud Infrastructure
-- [x] Exploring distributed systems & AI inference optimization
-- [x] Open to challenging engineering internships
-
-## ✦ Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>❖ Local LLM Inference Server</h3>
-      <p>A production-grade local LLM inference platform. Supports OpenAI-compatible APIs, real-time monitoring dashboards, Dockerized deployment, and GPU-accelerated inference.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>FastAPI</code> <code>vLLM</code> <code>Docker</code> <code>Prometheus</code> <code>Grafana</code></p>
-      <a href="https://github.com/chiranjeevbharali10/Local-LLM-Inference-Server">Explore Source ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>❖ Real-Time Chat Application</h3>
-      <p>A high-throughput messaging platform featuring real-time WebSockets, robust authentication, AI chatbot integration, and complete message state management.</p>
-      <p><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>WebSockets</code> <code>JWT</code></p>
-      <a href="https://github.com/chiranjeevbharali10/Real-Time-Chat-Application">Explore Source ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>❖ AI Self-Driving Car</h3>
-      <p>An autonomous vehicle simulation environment where cars evolve iteratively using the NEAT machine learning algorithm instead of hardcoded paths.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>NEAT</code> <code>Machine Learning</code></p>
-      <a href="https://github.com/chiranjeevbharali10/AI_car">Explore Source ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>❖ Facial Emotion Recognition</h3>
-      <p>A low-light optimized facial emotion recognition system. Implements RetinexFormer++ for image enhancement before utilizing ResNet for accurate emotion prediction.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>ResNet</code> <code>RetinexFormer++</code></p>
-      <a href="https://github.com/chiranjeevbharali10/Facial-Emotion-Recognition">Explore Source ↗</a>
-    </td>
-  </tr>
-</table>
-
 ## ✦ Stack & Tools
 
 <p>
@@ -102,6 +62,39 @@ I build serious software. With a deep focus on distributed systems, AI inference
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" />
 </p>
+
+## ✦ Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❖ Local LLM Inference Server</h3>
+      <p>A production-grade local LLM inference platform. Supports OpenAI-compatible APIs, real-time monitoring dashboards, Dockerized deployment, and GPU-accelerated inference.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>FastAPI</code> <code>vLLM</code> <code>Docker</code> <code>Prometheus</code> <code>Grafana</code></p>
+      <a href="https://github.com/chiranjeevbharali10/Local-LLM-Inference-Server">Explore Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❖ Real-Time Chat Application</h3>
+      <p>A high-throughput messaging platform featuring real-time WebSockets, robust authentication, AI chatbot integration, and complete message state management.</p>
+      <p><b>Tech:</b> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>WebSockets</code> <code>JWT</code></p>
+      <a href="https://github.com/chiranjeevbharali10/Real-Time-Chat-Application">Explore Source ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❖ AI Self-Driving Car</h3>
+      <p>An autonomous vehicle simulation environment where cars evolve iteratively using the NEAT machine learning algorithm instead of hardcoded paths.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>NEAT</code> <code>Machine Learning</code></p>
+      <a href="https://github.com/chiranjeevbharali10/AI_car">Explore Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❖ Facial Emotion Recognition</h3>
+      <p>A low-light optimized facial emotion recognition system. Implements RetinexFormer++ for image enhancement before utilizing ResNet for accurate emotion prediction.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>ResNet</code> <code>RetinexFormer++</code></p>
+      <a href="https://github.com/chiranjeevbharali10/Facial-Emotion-Recognition">Explore Source ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## ✦ Analytics & Activity
 
