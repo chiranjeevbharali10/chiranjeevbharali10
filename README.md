@@ -107,7 +107,7 @@ I build serious software. With a deep focus on distributed systems, AI inference
       <h3>❖ Local LLM Inference Server</h3>
       <p>A production-grade local LLM inference platform. Supports OpenAI-compatible APIs, real-time monitoring dashboards, Dockerized deployment, and GPU-accelerated inference.</p>
       <p><b>Tech:</b> <code>Python</code> <code>FastAPI</code> <code>vLLM</code> <code>Docker</code> <code>Prometheus</code> <code>Grafana</code></p>
-      <a href="https://github.com/chiranjeevbharali10/Local-LLM-Inference-Server">Explore Source ↗</a>
+      <a href="https://github.com/chiranjeevbharali10/LocalLLMInference">Explore Source ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>❖ Neural Art Transfer</h3>
@@ -124,10 +124,10 @@ I build serious software. With a deep focus on distributed systems, AI inference
       <a href="https://github.com/chiranjeevbharali10/AI_car">Explore Source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>❖ Neural Art Transfer</h3>
-      <p>A deep learning application implementing Neural Style Transfer. It leverages Convolutional Neural Networks to seamlessly blend the structural content of one image with the artistic style of another.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>Deep Learning</code></p>
-      <a href="https://github.com/chiranjeevbharali10/Art_Transfer">Explore Source ↗</a>
+      <h3>❖ Facial Emotion Recognition</h3>
+      <p>A low-light optimized facial emotion recognition system. Implements RetinexFormer++ for image enhancement before utilizing ResNet for accurate emotion prediction.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>ResNet</code> <code>RetinexFormer++</code></p>
+      <a href="https://github.com/chiranjeevbharali10/Facial-Emotion-Recognition">Explore Source ↗</a>
     </td>
   </tr>
 </table>
